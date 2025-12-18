@@ -1,6 +1,6 @@
 # Bijaya-7-README.md
 MS Computer Science | Aspiring Professor | Web &amp; UI/UX Enthusiast
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Bijaya%20Meher&20&fontColor=ffffff&desc=Aspiring%20Professor%20%7C%20Computer%20Science&descAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Bijaya%20Meher&20&fontColor=ffffff&desc=%20%20%7C%20%20&descAlignY=65)
 
 <h3 align="center">
 M.Sc. Computer Science | Educator-in-the-Making | Research & Development Enthusiast
